@@ -1,5 +1,5 @@
 <li>Pikachu</li>
-Chirizard
+<li>Chirizard</li>
 Bulbasaur
 Onix
 Ghastly
