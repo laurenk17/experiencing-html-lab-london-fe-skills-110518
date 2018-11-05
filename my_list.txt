@@ -1,4 +1,4 @@
-Pikachu
+<li>Pikachu</li>
 Chirizard
 Bulbasaur
 Onix
